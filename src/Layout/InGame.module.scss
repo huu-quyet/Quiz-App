@@ -1,0 +1,17 @@
+.inGame {
+  text-align: center;
+
+  & .action {
+    width: 40%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+}
+
+.form {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}

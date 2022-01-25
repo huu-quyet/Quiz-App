@@ -1,0 +1,18 @@
+.control-button {
+  display: flex;
+  max-width: 30%;
+  margin: 0 auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 500;
+  color: white;
+}
+
+span {
+  font-weight: 700;
+}
